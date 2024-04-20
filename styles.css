@@ -11,9 +11,12 @@ body{
 }
 
 .product__photo{
+	margin-top:7%;
 	width:45%;
+	height:90%;
 }
 .product__info{
+	margin-top:7%;
 	margin-left:1%;
 	width:30%;
 }
